@@ -1,2 +1,2 @@
 # goforitpass
-Universal Pass / Ad Publishing &amp; Consumption Management / Rational & Legal File Sharing / Shopping Management & Automation Tools
+Universal Pass / Privacy Protection / Ad Publishing & Consumption Management / Rational & Legal File Sharing / Shopping Management & Automation Tools
