@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Go-For-It-Pass. 
         </p>
         <a
           className="App-link"
