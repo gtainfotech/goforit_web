@@ -18,13 +18,13 @@ class Header extends Component{
                      </div>
 
                     <nav>
-                        <ul>
-                            <li>Home</li>
-                            <li>Features</li>
-                            <li>Members</li>
-                            <li>Targeting</li>
-                            <li>How It Works</li>
-                            <li>About US</li>
+                        <ul className='nav'>
+                            <li className='nav-item'>Home</li>
+                            <li className='nav-item'>Features</li>
+                            <li className='nav-item'>Members</li>
+                            <li className='nav-item'>Targeting</li>
+                            <li className='nav-item'>How It Works</li>
+                            <li className='nav-item'>About US</li>
                         </ul>
                     </nav>
 
