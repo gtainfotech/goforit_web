@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
-
-import './css/header.css';
-import Logo from './images/go_for_it_LOGO.svg'
+import './header.css';
+import Logo from '../../images/go_for_it_LOGO.svg';
 
  
 class Header extends Component{
@@ -17,7 +16,7 @@ class Header extends Component{
                         <div className="loginContainer"></div>
                      </div>
 
-                    <nav>
+                    <nav className="navbar navbar-dark bg-dark">
                         <ul className='nav'>
                             <li className='nav-item'>Home</li>
                             <li className='nav-item'>Features</li>
@@ -28,11 +27,7 @@ class Header extends Component{
                         </ul>
                     </nav>
 
-            </header>
-
-
-            
-        
+            </header> 
         );
     }
 }
