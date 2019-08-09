@@ -1,13 +1,13 @@
 import React from 'react';
-import LandingPage1 from './landingPage1';
-import './css/index.css';
+import HomePage from './pages/Home';
+import './index.css';
 
 
 function App() {
   return (
     <div className="App">
       <main>
-      <LandingPage1 />
+      <HomePage />
       </main>
 
     </div>
