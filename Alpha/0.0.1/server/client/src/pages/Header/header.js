@@ -12,7 +12,9 @@ class Header extends Component{
                         <div className="logoContainer">
                             <img src={Logo} alt='logo'/>
                         </div>
-                        <div className="headingContainer"></div>
+                        <div className="headingContainer">
+
+                        </div>
                         <div className="loginContainer"></div>
                      </div>
 
