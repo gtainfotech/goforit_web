@@ -1,4 +1,12 @@
-.logoContainer img{
-    width: 100px;
-    height: auto;
+@media (min-width: 800px) and (max-width: 1920px) {  
+
+    .logoContainer img{
+        width: 100px;
+        height: auto;
+    }
+
+
+
 }
+
+

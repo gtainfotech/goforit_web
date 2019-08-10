@@ -16,7 +16,7 @@ class Header extends Component{
                         <div className="loginContainer"></div>
                      </div>
 
-                    <nav className="navbar navbar-dark bg-dark">
+                    <nav className="">
                         <ul className='nav'>
                             <li className='nav-item'>Home</li>
                             <li className='nav-item'>Features</li>
