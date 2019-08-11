@@ -12,11 +12,13 @@ class Header extends Component{
                         <div className="logoContainer">
                             <img src={Logo} alt='logo'/>
                         </div>
-                        <div className="headingContainer"></div>
+                        <div className="headingContainer">
+
+                        </div>
                         <div className="loginContainer"></div>
                      </div>
 
-                    <nav className="navbar navbar-dark bg-dark">
+                    <nav className="">
                         <ul className='nav'>
                             <li className='nav-item'>Home</li>
                             <li className='nav-item'>Features</li>
